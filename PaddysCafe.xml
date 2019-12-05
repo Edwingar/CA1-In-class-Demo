@@ -46,6 +46,10 @@
 
   
   <section name="Hot Drinks">
+
+
+ <section name="Coffess">
+
     <entree vegetarian="true">
 	  <item>Espresso</item>
       <price>1.5</price>
@@ -75,22 +79,29 @@
       <price>3.00</price>
     </entree>          
 
+</section>
+
+  <section name="Teas">
+
     <entree teas>
 	  <item>Irish Tea</item>
       <price>2.00</price>
     </entree>
 
-    <entree teas>
+    <entree>
     <item>Green Tea</item>
       <price>2.00</price>
     </entree>
 
-<entree teas>
+<entree >
     <item>Pepermint Tea</item>
       <price>2.00</price>
     </entree>
+  </section>
 
-    <entree Hot Chocolates>
+
+ <section name="Hot Chocolates">
+    <entree >
       <item>Regular</item>
       <price>3.00</price>
     </entree>
@@ -109,6 +120,8 @@
       <item>Chocolate Orange</item>
       <price>3.50</price>
     </entree>
+
+  </section>
    
   </section>
 
