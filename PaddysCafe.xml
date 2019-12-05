@@ -11,8 +11,35 @@
       <price>3.00</price>
     </entree>
 
+<entree vegetarian="true"  >
+      <item>Apple crumble</item>
+      <price>3.00</price>
+    </entree>
+
+    <entree vegetarian="true"  >
+      <item>Caramel crumble</item>
+      <price>3.00</price>
+    </entree>
+
+     <entree vegetarian="true"  >
+      <item>Lemon Merengue</item>
+      <price>3.00</price>
+    </entree>
+
     <entree vegetarian="false">
       <item>Classic Glazed</item>
+      <price>2.00</price>
+    </entree>
+    <entree vegetarian="false">
+      <item>Cinamon sugar</item>
+      <price>2.00</price>
+    </entree>
+    <entree vegetarian="false">
+      <item>Jam</item>
+      <price>2.00</price>
+    </entree>
+     <entree vegetarian="false">
+      <item>The unicorn</item>
       <price>2.00</price>
     </entree>
   </section>
@@ -24,13 +51,63 @@
       <price>1.5</price>
     </entree>
 
+ <entree vegetarian="true">
+    <item>Double espresso</item>
+      <price>2.00</price>
+    </entree>
+
+ <entree vegetarian="true">
+    <item>Latte</item>
+      <price>2.50</price>
+    </entree>
+
+<entree vegetarian="true">
+    <item>capuccino</item>
+      <price>2.50</price>
+    </entree>   
+
+<entree vegetarian="true">
+    <item>Flat white</item>
+      <price>2.50</price>
+    </entree> 
+<entree vegetarian="true">
+    <item>Mocha</item>
+      <price>3.00</price>
+    </entree>          
+
     <entree teas>
 	  <item>Irish Tea</item>
       <price>2.00</price>
     </entree>
+
+    <entree teas>
+    <item>Green Tea</item>
+      <price>2.00</price>
+    </entree>
+
+<entree teas>
+    <item>Pepermint Tea</item>
+      <price>2.00</price>
+    </entree>
+
     <entree Hot Chocolates>
       <item>Regular</item>
       <price>3.00</price>
+    </entree>
+
+    <entree >
+      <item>Cookies and cream</item>
+      <price>3.50</price>
+    </entree>
+
+      <entree >
+      <item>Hazelnut Rocher</item>
+      <price>3.50</price>
+    </entree>
+
+      <entree >
+      <item>Chocolate Orange</item>
+      <price>3.50</price>
     </entree>
    
   </section>
