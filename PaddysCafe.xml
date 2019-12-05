@@ -1,125 +1,73 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Donutsmenu>
   <section name="Donuts">
-    <entree vegetarian="true">
+    <entree vegetarian="true"  >
       <item>Red velvet</item>
       <price>3.00</price>
-    </entree>
-	<entree vegetarian="true">
-     <item>Caramel crumble</item>
+	  <item>Ferrero Rocher</item>
+      <price>3.00</price>
+	  <item>Caramel crumble</item>
+      <price>3.00</price>
+	  <item>Cookies and cream</item>
+      <price>3.00</price>
+	  <item>Smores</item>
+      <price>3.00</price>
+	  <item>Apple Crumble</item>
       <price>3.00</price>
     </entree>
-	<entree vegetarian="true">
-      <item>Ferrero Rocher</item>
-      <price>3.00</price>
-    </entree>
-	<entree vegetarian="true">
-       <item>Cookies and cream</item>
-      <price>3.00</price>
-    </entree>
-	<entree vegetarian="true">
-      <item>Smores</item>
-      <price>3.00</price>
-    </entree>
-	<entree vegetarian="true">
-      <item>Apple Crumble</item>
-      <price>3.00</price>
-    </entree>
-	
     <entree vegetarian="false">
       <item>Classic Glazed</item>
       <price>2.00</price>
-    </entree>
-	
-	<entree vegetarian="false">	
-	<item>Coffee Slice</item>
+	  <item>Coffee Slice</item>
       <price>2.00</price>
-	</entree>
-	<entree vegetarian="false">	
-	 <item>Nutella Ring</item>
+	   <item>Nutella Ring</item>
       <price>2.50</price>
-	</entree>
-	<entree vegetarian="false">	
-	<item>Caramel Ring</item>
+	  <item>Caramel Ring</item>
       <price>2.50</price>
-	</entree>
-	<entree vegetarian="false">	
-	<item>Chocolatte Orange</item>
+	  <item>Chocolatte Orange</item>
       <price>2.50</price>
-	</entree>
-	<entree vegetarian="false">	
-	 <item>Kinder Bueno</item>
+	  <item>Kinder Bueno</item>
       <price>2.50</price>
-	</entree>
-	
-	
+    </entree>
   </section>
   <section name="Hot Drinks">
     <entree vegetarian="true">
+	  <item>Espresso</item>
+      <price>1.5</price>
+	  <item>Double Espresso</item>
+      <price>2.00</price>
+	  <item>Machiato</item>
+      <price>2.50</price>
+      <item>Latte</item>
+      <price>2.50</price>
 	  <item>Cappuccino</item>
       <price>2.50</price>
-    </entree>
-	<entree vegetarian="true">
-    <item>Espresso</item>
-      <price>1.5</price>
-	</entree>
-	<entree vegetarian="true">
-     <item>Double Espresso</item>
-      <price>2.00</price>
-	</entree>
-	<entree vegetarian="true">
-      <item>Machiato</item>
+	  <item>Flat white</item>
       <price>2.50</price>
-	</entree>
-	<entree vegetarian="true">
-    <item>Latte</item>
-      <price>2.50</price>
-	</entree>
-	<entree vegetarian="true">
-    <item>Mocha</item>
+	  <item>Mocha</item>
       <price>3.00</price>
-	</entree>
-	<entree vegetarian="true">
-     <item>Flat white</item>
-      <price>2.50</price>
-	</entree>
-	
-	
+	  
+    </entree>
     <entree teas>
+	  <item>Irish Tea</item>
+      <price>2.00</price>
+      <item>Black Tea</item>
+      <price>2.00</price>
 	   <item>Pepermint</item>
       <price>2.00</price>
+	   <item>Green</item>
+      <price>2.00</price>
     </entree>
-	</entree teas>
-	 <item>Irish Tea</item>
-      <price>2.00</price>
-	</entree>
-	</entree teas>
-	<item>Black Tea</item>
-      <price>2.00</price>
-	</entree>
-	</entree teas>
-	 <item>Green</item>
-      <price>2.00</price>
-	</entree>
-	
     <entree Hot Chocolates>
       <item>Regular</item>
       <price>3.00</price>
+	  <item>Ferrero Rochers</item>
+      <price>3.50</price>
+	  <item>Cookies and cream</item>
+      <price>3.50</price>
+	   <item>Chocolate Orange</item>
+      <price>3.50</price>
     </entree>
-   <entree Hot Chocolates>
-    <item>Ferrero Rochers</item>
-      <price>3.50</price>
-   </entree>
-   <entree Hot Chocolates>
-   <item>Cookies and cream</item>
-      <price>3.50</price>
-   </entree>
-   <entree Hot Chocolates>
-    <item>Chocolate Orange</item>
-      <price>3.50</price>
-   </entree>
-  
-   
    
   </section>
 
