@@ -5,6 +5,12 @@
       <item>Red velvet</item>
       <price>3.00</price>
     </entree>
+
+        <entree vegetarian="true"  >
+      <item>Cookies and cream</item>
+      <price>3.00</price>
+    </entree>
+
     <entree vegetarian="false">
       <item>Classic Glazed</item>
       <price>2.00</price>
