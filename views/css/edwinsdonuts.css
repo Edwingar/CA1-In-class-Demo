@@ -5,6 +5,7 @@ html {
 body {
 
 background-image: url(nutella.jpg);
+background-size: cover;
   background-repeat: no-repeat;
   /**-webkit-background-size: cover;
   /* Margin bottom by footer height */
