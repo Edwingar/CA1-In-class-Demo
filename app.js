@@ -87,7 +87,7 @@ router.post('/post/delete', function(req, res) {
     xmlFileToJs('edwinsdonuts.xml', function(err, result) {
       if (err) throw (err);
       //This is where we delete the object based on the position of the section and position of the entree, as being passed on from index.html
-      delete result.cafemenu.section[obj.section].entree[obj.entree];
+      delete result.edwinsdonutsmenu.section[obj.section].entree[obj.entree];
       //This is where we convert from JSON and write back our XML file
       jsToXmlFile('edwinsdonuts.xml', result, function(err) {
         if (err) console.log(err);
