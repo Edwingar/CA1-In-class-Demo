@@ -4,9 +4,9 @@ html {
 }
 body {
 
-  background-image: url(nutella.jpg);
+ /ackground-image: url(nutella.jpg);
   background-repeat: no-repeat;
-  -webkit-background-size: cover;
+  /**-webkit-background-size: cover;
   /* Margin bottom by footer height */
   margin-bottom: 60px;
 }
